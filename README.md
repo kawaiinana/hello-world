@@ -1,2 +1,1 @@
-# hello-world
-self study
+This is my very first commit
